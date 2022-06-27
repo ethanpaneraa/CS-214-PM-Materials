@@ -1,0 +1,1 @@
+The purpose of this repository is for storing the Peer-Mentoring materials that I have created for Northwestern University students enrolled in CS 214: Data Structures and Algorithms. 
